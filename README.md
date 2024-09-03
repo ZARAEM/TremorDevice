@@ -5,6 +5,7 @@ EE4144 Intro to Embedded Systems NYU Tandon
 ## Team Members:
 ### Mearaj Ahmed, Azaz-ur-Rehman Nasir, Kaddy Koroma
 
+## Description:
 This semester's embedded challenge consisted in building a wearable Parkinson tremor detector
 by using the Adafruit Playground Classic board with its embedded accelerometer The Classic
 board can calculate real time acceleration by measuring the values obtained from the built in
