@@ -1,6 +1,6 @@
 # Prototype Tremor Detection Device
-## Developed for Embedded Challenge Spring 2024 
-## EE4144 Intro to Embedded Systems NYU Tandon
+Developed for Embedded Challenge Spring 2024 
+EE4144 Intro to Embedded Systems NYU Tandon
 
 ## Team Members:
 ### Mearaj Ahmed, Azaz-ur-Rehman Nasir, Kaddy Koroma
