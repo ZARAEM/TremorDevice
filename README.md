@@ -1,9 +1,9 @@
-#Prototype Tremor Detection Device
-##Developed for Embedded Challenge Spring 2024 
-##EE4144 Intro to Embedded Systems NYU Tandon
+# Prototype Tremor Detection Device
+## Developed for Embedded Challenge Spring 2024 
+## EE4144 Intro to Embedded Systems NYU Tandon
 
-##Team Members:
-###Mearaj Ahmed, Azaz-ur-Rehman Nasir, Kaddy Koroma
+## Team Members:
+### Mearaj Ahmed, Azaz-ur-Rehman Nasir, Kaddy Koroma
 
 This semester's embedded challenge consisted in building a wearable Parkinson tremor detector
 by using the Adafruit Playground Classic board with its embedded accelerometer The Classic
